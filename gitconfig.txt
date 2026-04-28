@@ -1,0 +1,5 @@
+criar o projeto:
+ dotnet new webapi -o CCStore.API --use-controllers
+
+ -- Instalação das bibliotecas/pacotes
+ -- Extensão Nuget Gallery

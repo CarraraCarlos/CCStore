@@ -1,0 +1,6 @@
+@CCStore.API_HostAddress = http://localhost:5219
+
+GET {{CCStore.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
